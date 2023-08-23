@@ -1,5 +1,7 @@
 # Teste RNP
 
+Candidato: _Éderson Cássio Lacerda Ferreira_
+
 ## Diagrama ER
 
 Criado com o web app Lucid Chart. Base de dados inspecionada através do aplicativo DBeaver Community.
